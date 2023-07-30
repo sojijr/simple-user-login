@@ -3,7 +3,7 @@
 
 ### Preview:
 
-<img src="Public/images/displayImage.png" height=500>
+<img src="https://github.com/sojijr/simple-user-login/blob/7602cc93d2210f313533b4c1c325ca4bfdb89813/public/images/displayImage.png" height=500>
 
 ## Features:
 ### 1- Login page
