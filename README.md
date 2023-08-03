@@ -13,8 +13,8 @@
 ### 3- Welcome page
 
 ## How to Use this Repo
-
-1- Download/clone this repository in Xampp/htdocs or wamp64/www. <br/>
-2- Then open phpmyadmin (http://localhost/phpmyadmin/) and create a new database by the name of **"user"** and in top menu import the database file in the repository **"logindetails.sql"** <br/>
-3- Enter this url: http://localhost/simple-user-login/ on your browser to run it. <br/>
-4- Don't forget to star it!
+1- Fork this repository.
+2- Download/clone this repository in Xampp/htdocs or wamp64/www. <br/>
+3- Then open phpmyadmin (http://localhost/phpmyadmin/) and create a new database by the name of **"user"** and in top menu import the database file in the repository **"logindetails.sql"** <br/>
+4- Enter this url: http://localhost/simple-user-login/ on your browser to run it. <br/>
+5- Don't forget to star it!
